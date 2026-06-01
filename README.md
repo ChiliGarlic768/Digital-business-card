@@ -7,7 +7,7 @@ Developed a responsive personal digital business card website using HTML, CSS, J
 The project is a purely static single-page site featuring a cartoon avatar, a personal profile, keywords, contact details and multiple theme options.
 
 Live URL: [https://song-shukai-namecard.netlify.app](https://song-shukai-namecard.netlify.app)
-
+![网页展示](./S.png)
 ## Features
 
 - A minimalist personal business card page in the style of Apple’s official website
